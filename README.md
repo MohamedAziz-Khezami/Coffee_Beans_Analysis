@@ -1,6 +1,7 @@
 # **Introduction**
 This project focuses on analyzing coffee bean sales for **Golden Bloom Beans** , customer demographics, and product performance to provide actionable insights for improving business operations and customer satisfaction.
-##**Objectives**
+
+## **Objectives**
 * Which coffee products generate the highest revenue and profit?
 * Customer buying behavior by region, city, or loyalty status?
 * Trends in order frequency and quantity over time?
